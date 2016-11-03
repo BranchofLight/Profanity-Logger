@@ -2,6 +2,7 @@
 Profanity Logger was created to capture keys to later be analyzed for their colourful language and not personal information.
 
 All code can be found in this directory. In order to run the following steps are highly recommended:
+
 1. Navigate to /kernmod/
 2. Run “make”.
 3. Run “sudo ./insert.sh”.
